@@ -1,0 +1,19 @@
+
+
+****************************** Inicio Informe ******************************
+
+Nombre: Emilio Apellidos: Moreno Orduña DNI: 51111111A Dirección: C/calle 1 Teléfono: 911111111 Dolencia: Hombro dislocado
+-----------------------------------------------------------------------------------------
+Nombre: Monica Apellidos: Maria Perez DNI: 11222333A Dirección: C/calle 2 Teléfono: 111223344 Dolencia: Hipertension
+-----------------------------------------------------------------------------------------
+Nombre: Mario Apellidos: Bac Dos DNI: 51111222B Dirección: C/calle 3 Teléfono: 111112356 Dolencia: Gripe
+-----------------------------------------------------------------------------------------
+Nombre: Mario Apellidos: Rivera Uno DNI: 11333444C Dirección: c/calle 4 Teléfono: 1122336654 Dolencia: Dolor de cabeza
+-----------------------------------------------------------------------------------------
+Nombre: Paco Apellidos: Garcia Garcia DNI: 22333555J Dirección: C/calle 5 Teléfono: 631223344 Dolencia: Esguince de muñeca
+-----------------------------------------------------------------------------------------
+Nombre: Hommer Apellidos: J Simpson DNI: 55666777G Dirección: C/calle 23 Teléfono: 777555666 Dolencia: Obesidad
+-----------------------------------------------------------------------------------------
+
+****************************** Fin Informe ******************************
+
